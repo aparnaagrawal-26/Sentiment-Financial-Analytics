@@ -25,8 +25,7 @@ This repository contains a comprehensive dual-phase project focused on advanced 
   - [Strategy Optimisation](#strategy-optimisation)  
   - [COVID-19 Recovery Comparison](#covid-19-recovery-comparison)  
   - [Portfolio Optimisation](#portfolio-optimisation)  
-- [📂 Files](#📂-files)  
-- [🚀 How to Run](#🚀-how-to-run)  
+- [📂 Files](#📂-files)    
 - [📚 References](#📚-references)
 
 ---
@@ -125,29 +124,6 @@ Analysis covers 10 NASDAQ-listed stocks including: `EBAY`, `SBUX`, `NFLX`, `TSLA
 - `Financial analysis.ipynb` – Complete notebook with code for Parts A and B  
 - `Advanced_Analytics_Report.docx` – Detailed documentation and analysis  
 - `README.md` – Project overview and guide (this file)
-
----
-
-## 🚀 How to Run
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/FinancialAnalysisProject.git
-   cd FinancialAnalysisProject
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Launch Jupyter Notebook**:
-   ```bash
-   jupyter notebook
-   ```
-
-4. **Run the notebook**:  
-   Open and execute all cells in `Financial analysis.ipynb`.
 
 ---
 
